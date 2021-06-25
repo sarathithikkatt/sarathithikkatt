@@ -12,7 +12,7 @@
 - 📫 How to reach me **sarath2000is@gmail.com**
   
 ---
-### Now Playing 🎧
+### Now Listening to 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31obu72xbn5aajxqixcjmo7gyr4m&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=31obu72xbn5aajxqixcjmo7gyr4m&redirect=true)
 
 ---
@@ -63,9 +63,10 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 ---
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarathithikkatt&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sarathithikkatt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarathithikkatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="sarathithikkatt" /></p>
+
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarathithikkatt&show_icons=true&theme=dracula&locale=en" alt="sarathithikkatt" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarathithikkatt&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="sarathithikkatt" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sarathithikkatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarathithikkatt" /></a></p>
