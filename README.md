@@ -84,12 +84,10 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <a href="upi://pay?pa=sarath2000is-2@okaxis&amp;pn=Sarath I S AK &amp;cu=INR"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarathithikkatt" /></a>
+  <a href="https://www.buymeacoffee.com/sarathithikkatt"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarathithikkatt" /></a>
 <br>
-<br>
-  <a ref="upi://pay?pa=sarath2000is-2@okaxis&amp;pn=Sarath I S AK &amp;cu=INR"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="sarathithikkatt" /></a>
-<a href="upi://pay?pa=sarath2000is-2@okaxis&amp;pn=Sarath I S AK &amp;cu=INR" class="upi-pay1">
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI"/>  -->
+<a href="https://tinyurl.com/myupi" class="upi-pay1">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI"/> 
   UPI
   </a>
 
