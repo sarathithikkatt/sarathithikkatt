@@ -86,6 +86,7 @@
 <p>
   <a href="https://www.buymeacoffee.com/sarathithikkatt"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarathithikkatt" /></a>
 <br>
+<br>
 <a href="https://tinyurl.com/myupi" class="upi-pay1">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI"/>
   </a>
