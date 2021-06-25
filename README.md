@@ -25,6 +25,7 @@
 <a href="https://www.hackerrank.com/sarath2000is" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarath2000is" height="30" width="40" /></a>
 </p>
 
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -45,6 +46,7 @@
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img alt="Python" width="40"  height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png"/> </a>
+<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 
 <!-- Flutter -->
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -57,10 +59,17 @@
 <a href="https://www.blackmagicdesign.com/in/products/davinciresolve/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png" alt="davinci" width="40" height="40"/> </a> 
 </p>
 
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
-<!-- OS -->
+<!-- Ai related stuff -->
+ <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+ <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+
+<!-- Other -->
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+
 ---
 <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarathithikkatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="sarathithikkatt" /></p>
@@ -71,7 +80,15 @@
 
 <br>
 
+---
+
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sarathithikkatt"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarathithikkatt" /></a></p>
+<p><a href="https://www.buymeacoffee.com/sarathithikkatt"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sarathithikkatt" /></a>
+<br>
+<br>
+<a href="upi://pay?pa=sarath2000is-2@okaxis&amp;pn=Sarath I S AK &amp;cu=INR" class="upi-pay1" ><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" </a>
+<a></a>
+
+</p>
 <br>
 <br>
