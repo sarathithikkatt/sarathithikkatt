@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sarath</h1>
-<h3 align="center">A Third year Engineering Student trying out stuffs</h3>
+<h3 align="center">A Final year Engineering Student trying out stuffs</h3>
 
-- 🔭 I’m currently working on [A Real Time Chat Application](https://github.com/sarathithikkatt/Real-time-Chat-Web-Application)
+- 🔭 I’m currently working as an Intern @ [Broadridge Financial Solutions](https://www.broadridge.com/intl/)
 
-- 🌱 I’m currently learning **Game Dev, WebRTC**
+- 🌱 I’m currently learning **Game Dev, UI Automation**
 
-- 🤝 I’m looking for help with **MEAN Stack**
-
+<!-- - 🤝 I’m looking for help with **MEAN Stack** -->
+<!--  -->
 - 💬 Ask me about **Flutter, MEAN**
 
 - 📫 How to reach me **sarath2000is@gmail.com**
