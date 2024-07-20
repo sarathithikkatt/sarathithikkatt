@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sarath</h1>
 <h3 align="center">A Final year Engineering Student trying out stuffs</h3>
 
-- 🔭 I’m currently working as an Intern @ [Broadridge Financial Solutions](https://www.broadridge.com/intl/)
+- 🔭 I’m currently working as an SDE @ [ShipRocket](https://www.shiprocket.in/)
 
-- 🌱 I’m currently learning **Game Dev, UI Automation**
+- 🌱 I’m currently gaining experience in  **Go, Node.js, PHP, Python**
 
 <!-- - 🤝 I’m looking for help with **MEAN Stack** -->
 <!--  -->
-- 💬 Ask me about **Flutter, MEAN**
+- 💬 Ask me about **Go, Node.js**
 
 - 📫 How to reach me **sarath2000is@gmail.com**
   
