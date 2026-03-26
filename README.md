@@ -1,59 +1,68 @@
+# Hi, I'm Sarath I S 👋
 
-  <h1 align="center">Hello 👋, I'm Sarath</h1>
-  <h3 align="center">SDE @ Shiprocket</h3>
+### Senior Backend Engineer | Distributed Systems | Platform & Infrastructure
 
-  <ul>
-    <li>🔭 Currently working as an SDE at <a href="https://www.shiprocket.in/">ShipRocket</a></li>
-    <li>⚡ Enabling Quick Commerce for our clients <a href="https://www.shiprocket.in/quick/">ShipRocket Quick</a></li>
-    <li>🌱 Expanding my knowledge in <strong>Go</strong>, <strong>Node.js</strong>, <strong>PHP</strong>, and <strong>Python</strong></li>
-    <li>💬 Feel free to ask me about <strong>Go</strong> or <strong>Node.js</strong></li>
-    <li>📫 You can reach me at <a href="mailto:sarath2000is@gmail.com">sarath2000is@gmail.com</a></li>
-  </ul>
+I am a backend specialist with over 3.6 years of experience building high-throughput, reliable systems. I focus on **event-driven architecture**, **microservices**, and **cloud infrastructure**—specifically taking products from 0 to production scale.
 
-  <hr>
+---
 
-  <h3>Connect with Me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/sarathithikkatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarathithikkatt" height="30" width="40" /></a>
-    <a href="https://fb.com/sarathithikkatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarathithikkatt" height="30" width="40" /></a>
-    <a href="https://instagram.com/sarathithikkatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarathithikkatt" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/sarath2000is" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarath2000is" height="30" width="40" /></a>
-  </p>
+### 🚀 Things I'm Working On
 
-  <hr>
+* **[StealthAssistant](https://github.com/sarathithikkatt/StealthApp)** – An always-on AI assistant that sees your screen, hears your voice, and responds using a local LLM (Ollama) — all while remaining invisible to screen capture tools.
 
-  <h3>Technologies & Tools:</h3>
-  <p align="left">
-    <a href="https://go.dev/" target="_blank"><img src="https://go.dev/images/go-logo-white.svg" alt="Go" width="40" height="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
-    <a href="https://www.python.org" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" width="40" height="40" /></a>
-    <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" /></a>
-    <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" /></a>
-    <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="40" height="40" /></a>
-    <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40" /></a>
-    <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" /></a>
-    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
-    <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" /></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  </p>
+🌱 Currently exploring **LangChain**, **LangGraph**, and **LangSmith** for building production-grade agentic AI workflows.
+---
 
-  <hr>
-<h3>GitHub Stats:</h3>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarathithikkatt&show_icons=true&theme=dark&locale=en&layout=compact" alt="Sarath's Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=sarathithikkatt&show_icons=true&theme=dark&title_color=d9d9d9&text_color=dfdddd&locale=en" alt="Sarath's GitHub Stats" />
-</div>
+### 💼 Open to Opportunities
 
-  <hr>
+I'm currently open to **contract, freelance, and volunteer work** — remote-first, but happy to relocate for the right opportunity.
 
-<h3>Support Me:</h3>
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://www.buymeacoffee.com/sarathithikkatt">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-  <a href="https://tinyurl.com/myupi" class="upi-pay1">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPI-Logo-vector.svg" height="50" width="210" alt="UPI" />
-  </a>
-</div>
+If you're building something interesting in the distributed systems, platform engineering, or AI infrastructure space and need someone who can hit the ground running — feel free to reach out at **sarathithikkatt@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/sarathithikkatt).
+
+---
+
+### 🛠️ Technical Stack
+
+* **Languages:** Go (Golang), Node.js, Python, JavaScript, TypeScript
+* **Infrastructure & DevOps:** AWS (ECS Fargate, Lambda, SQS, S3), Docker, CI/CD (GitHub Actions)
+* **Distributed Systems:** Apache Kafka, AWS SQS (FIFO & Standard), Event-Driven Architecture, Async Processing
+* **Databases & Search:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Snowflake
+* **Observability:** ELK Stack, Grafana, New Relic, CubeAPM
+
+---
+
+### 📈 Professional Impact
+
+#### **Platform Engineering & Scale**
+* **Infrastructure Migration:** Led the transition of microservices from EC2 to **AWS ECS Fargate**, reducing infrastructure management overhead by **40%** and deployment time by **50%**.
+* **High-Throughput Pipelines:** Replaced manual workflows with an automated scoring pipeline using **Google's UVQ model**, enabling 24/7 processing at **12x** the previous daily capacity.
+* **System Reliability:** Re-architected async processing using **AWS SQS**, achieving near-zero message loss and a **30%** reduction in queue-related incidents.
+* **AI Implementation:** Architected a parallel AI transcription pipeline using **Sarvam AI**, benchmarking India-accent models for accuracy and latency.
+
+#### **Backend & Performance**
+* **Concurrency in Go:** Developed a Kafka-driven microservice for invoice reconciliation, maintaining **CPU utilization below 15%** under peak load.
+* **Data Optimization:** Optimized SQL queries and data pipelines using **Snowflake** and **Elasticsearch**, reducing report generation time by **80%**.
+* **Service Expansion:** Integrated multiple logistics carrier APIs, expanding platform coverage to **180+ cities** across India.
+* **Conversion Growth:** Implemented the Estimated Delivery Date (EDD) feature, contributing to a **60%** increase in merchant checkout conversions.
+
+---
+
+### 🏆 Achievements & Publications
+
+* **IEEE Publication:** *"A Novel Low-Cost Theft Detection System for Two-Wheelers with Minimum Carbon Footprint"*
+* **Smart India Hackathon:** 1st Prize Winner
+* **Kerala Startup Mission:** Recognized for the "Most Innovative Tech Product"
+
+---
+
+### 🎓 Education
+
+* **B.Tech in Computer Science and Engineering** | Christ College of Engineering
+* **CGPA:** 7.66/10
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/sarathithikkatt](https://linkedin.com/in/sarathithikkatt)
+* **Email:** [sarathithikkatt@gmail.com](mailto:sarathithikkatt@gmail.com) 
